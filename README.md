@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/alexander-michels-dialogplus/">Alex Michels!</a></h1>
-<h3 align="center">busy creating something awesome</h3>
+<h3 align="center">Let's create something awesome</h3>
 
-- 👋 Hi, I’m @AlexMichels
+- 👋 Hi, nice to meet you!
 - 👀 I’m a Flutter and learning enthusiast, especially interested in Tech innovations.
 - 🌱 I’m currently deepening my Flutter skills with State Management and Firebase
 - 💞️ I’m looking to collaborate on interesting Flutter Projects
