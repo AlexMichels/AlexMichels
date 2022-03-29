@@ -8,7 +8,7 @@
 - 🌱 I’m currently deepening my Flutter skills with State Management and Firebase
 - 💞️ I’m looking to collaborate on interesting Flutter Projects
 - 📫 You can reach me [**Here**][email]
-- 👨🏼‍💼 Connect with me on [**Linkedin**][linkedin]
+- 👨🏼‍💼 Connect with me on [**LinkedIn**][linkedin]
 
 
 <!---
