@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img align="left" alt=“AWS” width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
+<img align="left" alt=“AWS” width="26px" src="https://logowik.com/content/uploads/images/aws-amazon-web-services.jpg" />
 
 
 
