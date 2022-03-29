@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AlexMichels
-- 👀 I’m a Flutter and learning enthusiast especially intrested in Tech innovations.
-- 🌱 I’m currently deepen my Flutter skills with State Managment and Firebase
-- 💞️ I’m looking to collaborate on intresting Flutter Projects
-- 📫 You can reach me at michels@dialogplus.nrw .
+- 👋 Hi, I’m @AlexMichels
+- 👀 I’m a Flutter and learning enthusiast, especially interested in Tech innovations.
+- 🌱 I’m currently deepening my Flutter skills with State Management and Firebase
+- 💞️ I’m looking to collaborate on interesting Flutter Projects
+- 📫 You can reach me at michels@dialogplus.nrw .
 
 
 <!---
