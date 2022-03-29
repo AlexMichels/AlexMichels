@@ -3,11 +3,12 @@
 
 <br />
 
-- 👨🏼‍💼 Nice to meet you. [**connect**][linkedin] with me on LinkedIn
+
 - 👀 I’m a Flutter and learning enthusiast, especially interested in Tech innovations.
 - 🌱 I’m currently deepening my Flutter skills with State Management and Firebase
 - 💞️ I’m looking to collaborate on interesting Flutter Projects
-- 📫 You can reach me [**Here**][email] .
+- 📫 You can reach me [**Here**][email]
+- 👨🏼‍💼 [**Connect**][linkedin] with me on LinkedIn
 
 
 <!---
