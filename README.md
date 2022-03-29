@@ -14,11 +14,9 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-### Work With Me
-[<img align="left" alt="Alex Michels | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+### Connect With Me
 
 [<img align="left" alt="Alex Michels | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-
 
 
 <br />
