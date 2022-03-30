@@ -30,8 +30,17 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt=“AWS” width="26px" src="https://logowik.com/content/uploads/images/aws-amazon-web-services.jpg" />
 
+<br />
+<br />
 
+### Last Projects
+<img align="left" alt=“Flutter” width="220px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 
+<img align="left" alt=“Flutter” width="220px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+
+<img align="right" alt=“Firebase” width="220px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+
+<img align="right" alt=“Firebase” width="220px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 
 
 
