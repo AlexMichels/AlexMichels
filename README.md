@@ -44,8 +44,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/AlexMichels/AlexMichels/blob/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-30%20at%2014.08.27.gif?raw=true" alt="feed example" width="200">
 <img src="https://github.com/AlexMichels/AlexMichels/blob/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-30%20at%2014.23.31.gif?raw=true" alt="feed example" width="200">
 <img src="https://github.com/AlexMichels/AlexMichels/blob/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-30%20at%2014.27.17.gif?raw=true" alt="feed example" width="200">
-<img src="https://github.com/tortuvshin/open-source-flutter-apps/blob/master/art/new%20flutter%20jobs.gif" alt="feed example" width="200">
-<img src="https://user-images.githubusercontent.com/8137504/49392298-09e33980-f754-11e8-9fc2-7cd12b62e604.png" alt="feed example" width="200">
 </p>
 
 
