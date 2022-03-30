@@ -42,8 +42,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/AlexMichels/AlexMichels/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-29%20at%2021.06.54.gif" alt="feed example" width="200">
 <img src="https://raw.githubusercontent.com/AlexMichels/AlexMichels/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-30%20at%2014.13.42.gif" alt="feed example" width="200">
 <img src="https://github.com/AlexMichels/AlexMichels/blob/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-30%20at%2014.08.27.gif?raw=true" alt="feed example" width="200">
-<img src="https://github.com/AlexMichels/AlexMichels/blob/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-30%20at%2014.23.31.gif?raw=true" alt="feed example" width="200">
-<img src="https://github.com/AlexMichels/AlexMichels/blob/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-30%20at%2014.27.17.gif?raw=true" alt="feed example" width="200">
+<img src=https://github.com/AlexMichels/AlexMichels/blob/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-30%20at%2014.44.59.gif?raw=true" alt="feed example" width="200">
+<img src="https://github.com/AlexMichels/AlexMichels/blob/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-30%20at%2014.39.58.gif?raw=true" width="200">
 </p>
 
 
