@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: https://www.linkedin.com/in/alexander-michels-dialogplus/
 [github]: https://github.com/AlexMichels
 
-[email]: mailto:hello@johannesmilke.com
+[email]: mailto:michels@dialogplus.nrw
 
 
 
