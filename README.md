@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Last Flutter Projects
 
-<br /> 
+
 
 <p>
 <img src="https://raw.githubusercontent.com/AlexMichels/AlexMichels/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-29%20at%2021.06.54.gif" alt="feed example" width="140">
