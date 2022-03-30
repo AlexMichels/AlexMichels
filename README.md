@@ -23,16 +23,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-### Languages and Tools
-<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img align="left" alt=“AWS” width="26px" src="https://logowik.com/content/uploads/images/aws-amazon-web-services.jpg" />
 
-<br />
-<br />
 
 ### Last Flutter Projects
 
@@ -46,6 +37,16 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/AlexMichels/AlexMichels/blob/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-30%20at%2014.39.58.gif?raw=true" width="200">
 </p>
 
+<br />
+<br />
+
+### Languages and Tools
+<img align="left" alt=“Flutter” width="32px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img align="left" alt=“Firebase” width="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt=“Dart” width="32px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<img align="left" alt=“Github” width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt=“Python” width="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt=“AWS” width="32px" src="https://logowik.com/content/uploads/images/aws-amazon-web-services.jpg" />
 
 
 
