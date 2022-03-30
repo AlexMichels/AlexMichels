@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-### Last Projects
+### Last Flutter Projects
 <img align="left" alt=“Flutter” width="220px" src="https://raw.githubusercontent.com/AlexMichels/AlexMichels/main/images/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202022-03-29%20at%2021.06.54.gif" />
 
 <img align="left" alt=“Flutter” width="220px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
